@@ -1,0 +1,28 @@
+CLI - Command Line Interface - Interface apenas com linhas de código (Terminal)
+
+Comandos Básicos Windows
+
+- dir -> Listar os diretórios dentro de uma pasta
+
+- cd -> Change directory - Mudar de pasta
+
+Em frente ao comando, digitar o caminho do diretório desejado
+
+Exemplo -> cd / -> Te leva para a base do diretório
+Exemplo -> cd Windows
+
+Para retroceder, subir uma pasta -> cd ..
+
+- cls -> Clear Screen -> limpar o terminal
+
+- mkdir -> Make Directory -> Cria uma pasta/diretório
+
+- del -> Delete -> Deleta ARQUIVOS APENAS
+
+- rmdir -> Remove Directory -> Deleta Diretórios/Pastas
+
+Atalhos:
+
+- TAB - AutoComplete -> Preenche o restante do comando, ou dá sugestões
+
+- ArrowUp -> Navegar nos comandos anteriores

@@ -1,0 +1,29 @@
+Tipos de Dados - Blobs, Trees e Commits
+---------------------------------------------
+
+Blob - Guarda metadados como: 
+- Tipo do Objeto
+- Tamanho
+- \0
+- SHA1
+OBS: Apontam para arquivos
+---------------------------------------------
+
+Tree - Armazenam Blobs e também contém metadados como:
+- Tipo do Objeto
+- Tamanho
+- \0
+- Nome do Arquivo
+- SHA1
+- Aponta para Blobs e Trees
+---------------------------------------------
+
+Commit - Principal Objeto do GIT e armazena os seguintes metadados:
+- Tipo do Objeto
+- Trees
+- Parente (Commit anterior)
+- Autor
+- Mensagem
+- Timestamp
+- SHA1
+- Aponta para Trees e outros Commits

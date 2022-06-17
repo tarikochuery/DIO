@@ -1,0 +1,20 @@
+O GitHub funciona como uma drive na nuvem para os arquivos gerados na máquina local, a
+fim de poder permitir que desenvolvedores possam colaborar ao mesmo tempo em um único
+projeto.
+
+Para poder sincronizar a máquina local com o GitHub, é necessário criar um repositório
+no site do GitHub, para gerar um endereço URL para conectar o repositório local no 
+Git.
+
+Para isso, se utiliza o comando
+	"git remote add origin [endereço URL]"
+
+OBS: O termo "origin" é o apelido dado ao endereço URL para que não seja necessário didi-
+tá-lo a todo momento. Origin é utilizado por padrão pelos desenvolvedores.
+
+Ao utilizar este comando, você conectou o repositório local ao repositório no GitHub,
+agora basta empurrar as fotos no repositório local para o GitHub através do seguinte
+comando:
+	"git push origin master"
+
+OBS: Master é o branch do repositório local que está sendo empurrado para o GitHub.

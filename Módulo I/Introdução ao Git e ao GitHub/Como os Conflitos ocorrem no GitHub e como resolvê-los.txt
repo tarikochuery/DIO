@@ -1,0 +1,13 @@
+Conflitos são causados quando duas pessoas alteram a mesma linha de um mesmo arquivo.
+Então quando a segunda pessoa a enviar o arquivo para o GitHub tentar empurrar, gera
+o conflito que deve ser reparado manualmente.
+
+Quando isso ocorre, o GitHub não permite que a operação de push seja concluída e sugere
+que a máquina local atualize seu repositório local a fim de se manter atualizado com o
+repositório do GitHub. Para isso, utiliza-se o seguinte comando:
+	"git pull origin master"
+
+Quando feito o comando, o Git não deleta o arquivo local, mas coloca tanto a alteração
+local quanto a alteração no GitHub no mesmo arquivo, para que o usuário escolha como
+quer manter o arquivo. Assim, que os conflitos são resolvidos, basta que o usuário
+coloque em stage novamento o arquivo, faça o commit e então o push para o GitHub.

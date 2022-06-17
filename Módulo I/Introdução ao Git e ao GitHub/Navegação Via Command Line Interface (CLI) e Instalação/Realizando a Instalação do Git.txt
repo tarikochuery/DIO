@@ -1,0 +1,3 @@
+Home do Git: https://git-scm.com/
+
+Seguir o passo a passo da instalação dentro do site.

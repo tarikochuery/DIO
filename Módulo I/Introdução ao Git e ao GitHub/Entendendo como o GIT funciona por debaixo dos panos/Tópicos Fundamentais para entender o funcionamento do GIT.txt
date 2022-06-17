@@ -1,0 +1,5 @@
+SHA1 - Algoritmo de Encriptação
+	- Security Hash Algorithm
+	- Conjunto de caracteres de 40 dígitos ÚNICO
+	- Para cada alteração an versão do documento, o SHA1 é alterado
+	- Forma simplificada de representar um arquivo.

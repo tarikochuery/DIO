@@ -1,0 +1,12 @@
+git init -> Iniciar o Repositório do Git
+git add -> Adicionar arquivos e inicar o versinonamento
+git commit -> Realizar um Commit
+
+Exemplos de Utilização:
+
+git init -> Utiliziar sempre dentro de um repositório onde se deseja fazer o versionamento
+e utilização do Git
+
+git add -> git add *
+
+git commit -> git commit -m 'Initial Commit'

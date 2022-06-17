@@ -1,0 +1,50 @@
+Tracked e Untracked
+
+Para começarmos a utilizar o Git em um dos diretórios locais, e necessário criar um
+REPOSITÓRIO do Git. Para isso, utilizamos o comando "git init" dentro do diretório
+através do Git Bash.
+
+Feito isso, todos os arquivos do diretório são categorizados como "UNTRACKED", pois não
+foram criados SHA1 para estes arquivos/diretórios, dessa forma o Git não consegue
+localizá-los.
+
+Para adicinioná-los ao repositório, utiliza-se o comando "git add [nome do arquivo]" 
+para um arquivo/diretório específico ou "git add *" para adicionar todos os arquivos.
+Quando isso é feito, o Git sabe da existência desses arquivos e cria um SHA1 para cada
+um deles, e dessa forma os categoriza como "TRACKED"
+---------------------------------------------------------------------------------------
+
+Unmodified, Modified, Staged
+
+Quando um arquivo/diretório é adicionado ao repositório, a função do Git é prepará-los
+para uma "foto". Por isso o Git entende que existe todo um processo de preparação para
+fazê-lo, afinal os arquivos são muito vaidosos e gostam de boas fotos.
+
+Logo quando o arquivo/diretório é adicionado ao repositório, o Git entende que já
+estão prontos para foto. Portanto o Git os classifica como "STAGED". Para bater a foto
+basta utilizar o comando "git commit -m "[Mensagem do Commit]"".
+
+Quando a foto é tirada, o Git entende que agora aquele é o estado natural dos arquivos
+e se não houver nenhuma alteração, então os classifica como "UNMODIFIED". Como os
+arquivos/diretórios estão idênticos à foto, como aponta no seu SHA1, o Git entende
+que não mudaram.
+
+Se houver qualquer alteração no arquivo/diretório, então o Git percebe isso através do
+SHA1, e os categoriza como "MODIFIED", porém ainda não os enxerga como preparados para
+tirar a foto, pois precisam ser posicionados em frente à câmera. Para isso basta utili-
+o comando "git add [nome do arquivo]" como já visto, e o ciclo se reinicia.
+--------------------------------------------------------------------------------------
+
+Workspace Directory, Staging Area, Local Repository
+
+Todos os arquivos/diretórios enquanto estão sendo preparados para a foto se encontram
+dentro da máquina local, no diretório principal onde podem ser alterados a qualquer
+momento. Este local é visto pelo Git como "WORKSPACE DIRECTORY".
+
+Quando os arquivos/diretórios são colocados em frente à câmera para bater a foto, eles
+se encontram em um local visto pelo Git como "STAGING AREA", basicamento onde as fotos
+são tiradas.
+
+As fotos tiradas são armazenadas pelo Git num local que ele reconhece como "LOCAL REPO-
+SITORY". Através desse repositório é que o Git consegue mandar as fotos dos arquivos/
+diretório para a nuvem(GitHub).

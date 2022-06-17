@@ -1,0 +1,42 @@
+Autenticação para Git e GitHub
+
+Chave SSH
+
+É necessário para que o GitHub reconheça sua máquina local como confiável,
+ter cadastrada a chave SSH nas configurações do seu perfil no site do GitHub.
+
+Gerando Chave no Git Bash
+
+Para gerar uma chave, acesse seu git Bash e insira o seguinte comando:
+
+ssh-keygen -t ed25519 -C [email utilizado no GitHub]
+
+Então, determine o diretório para salvar o arquivo que contem a chave
+
+Escolha uma senha de acesso
+
+Foram gerados ao final do processo, dois arquivos:
+
+Chave SSH Privada;
+Chave SSH Pública.
+
+Com a chave criada, navegue até o diretório onde se localizam os arquivos, utilize o 
+comando cat para mostrar o conteúdo no arquivo com a chave PÚBLICA
+
+Copie o arquivo e cole no campo adequado dentro do GitHub.
+
+Após a chave criada e cadastrada no GitHub, é necessário inicializar o agente respon-
+sável pela encriptação e desencriptação dos arquivos que serão trocados entre a
+máquina local e o Github.
+
+Para isso, dentro do diretório com os arquivos das chaves, escreva o seguinte cómando
+para inicializar o agente:
+
+eval $(ssh-agent -s)
+
+Então, será necessário cadastrar sua chave PRIVADA para o agente, assim ele utilizará
+sua chave para desencriptar os arquivos enviados pelo GitHub. Utilize o seguinte comando:
+
+ssh-add [nome do arquivo com a chave]
+
+Em seguida, digite a senha cadastrada.
