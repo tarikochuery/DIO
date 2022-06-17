@@ -1,0 +1,34 @@
+Introdução à História da Internet
+
+Começou como Arpanet nos EUA - 1969
+
+1987 - Liberado para uso Comercial
+
+1992 - World Wide Web
+-------------------------------------
+
+Internet no Brasil
+
+1988 - Internert apenas nas Universidades
+
+1994 - Internet Discada
+
+2000 - Banda Larga
+-------------------------------------
+
+Exercícios
+
+1 - Qual foi o primeiro domínio criado?
+R.: symbolics.com - Fabricante de computadir em 1958
+Nesta época, qualquer um poderia criar um domínio de maneira gratuita
+
+2 - E o primeiro blog?
+R.: Open Diary, criado por um brasileiro em 1994. Claudio Pinhanez era cientista do
+MIT Media Lab, e criou o blog para contar um pouco sobre sua vida.
+
+3 - Qual foi a primeira compra feita pela Internet?
+R.: Um CD de Sting (Ten Summoner's Tales) - Ocorreu em 11/08/1994
+
+4 - Qual o site mais antigo em atividade?
+R.: nordu.net - Criado pela NORDUnet em 01/01/1985
+---------------------------------------------

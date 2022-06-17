@@ -1,0 +1,33 @@
+Redes
+
+Para se estabelecer a comunicação entre diferentes computadores, não seria possível
+uma ligação direta entre todos, pois causaria uma estrutura muito complexa.
+
+Para isso, foram desenvolvidos Backbones que funcionam como a coluna espinhal para
+manter a conexão entre computadores. Existem alguns backbones espalhados pelo mundo e em
+cada país, geralmente, quem detem essas estruturas são as empresas provedoras de Internet.
+
+Existem diversas de fazer as conexões com a Internet:
+ - Dial-up
+ - ADSL (banda larga)
+ - Fibra Ótica
+ - Rádio
+ - Satélite
+ - Móvel
+ - P2P (Peer to Peer)
+---------------------------------------------------------------------------------------
+
+Caminho Inversa
+
+Nome do Site é traduzido pelo DNS para um IP, de forma que o computador possa entender
+o endereço que o usuário deseja acessar.
+
+OBS: Localhost 127.0.0.1
+--------------------------------------------------------------------------------------
+
+Exercício
+
+Descobrir o número de IP de um site
+
+Facebook - 157.240.12.35
+DIO - 76.76.21.22
