@@ -51,3 +51,8 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - Diversos Termos Comuns
         8. Construindo a primeira aplicação
             - Aula Prática
+            - index.php
+            - index2.php
+    2. Introdução a criação de Websites com HTML5  e CSS3
+        1. Introdução ao curso de HTML
+            - Estrutura Básica
