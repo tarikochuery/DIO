@@ -56,3 +56,10 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
     2. Introdução a criação de Websites com HTML5  e CSS3
         1. Introdução ao curso de HTML
             - Estrutura Básica
+        2. Entendo o que é Semântica
+            - Semântica - Parte 1
+        3. Como usar Textos e Links no HTML
+            - Tags para textos
+            - Tags para Links
+        3. Site Pessoal (DIretório do Projeto)
+        
