@@ -1,0 +1,21 @@
+SMS
+
+- Não custa nada para a operadora enviar um SMS.
+- O celular troca, naturalmente, alguns bits com as torres de comunicação, apenas para sinalizar que está recebendo o sinal da torre. Então, os SMS também "pegam carona" nessa troca de bits.
+----------------------------------------------------------------
+
+MMS
+- Transmissão de mensagem multimídia
+----------------------------------------------------------------
+
+Conexões Móveis
+
+- 1G (analógico) - 10Kbps
+- 2G (digital) (GSM (Global System for Mobile Communication)) - 97Kbps
+- GPRS (General Packet Radio Service) / "2,5G": 32-80Kbps - Dados + voz
+- EDGE (Enhaced Data Rates for GSM Evolution) / "2,75G" - 128-236Kbps
+- 3G (7Mbps)
+- 4G (22,1Mbps)
+- 5G (10Gbps)
+-----------------------------------------------------------------
+
