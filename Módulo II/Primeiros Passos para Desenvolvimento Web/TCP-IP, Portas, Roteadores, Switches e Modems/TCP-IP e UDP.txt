@@ -1,0 +1,31 @@
+TCP - Protocolo de Controle de Transmissão
+    - Os dados não podem ser enviados de maneira desordenada, um padrão deve ser seguido
+para que os computadores conseguiam entender a informação
+
+IP - Protocolo de Internet
+   - Da mesma forma, os dados que trafegam na Internet devem seguir um protocolo para que
+haja um padrão na troca de informação
+----------------------------------------------
+
+Modelo de Camadas
+
+4 camadas
+	1. Física (Ex. Placa de Rede)
+	2. Rede (Ex. IP)
+	3. Transporte -> Como as informações são trocadas (Ex. TCP, UDP)
+	4. Aplicação -> Tipo de aplicação (Ex. FTP, SMTP, HTTP)
+-----------------------------------------------
+
+TCP x UDP
+
+UDP
+ - Rápido
+ - Não confiável (Informação pode se perder, sem confirmação de envio e recebimento)
+ - Carro do Ovo (Todos podem receber a informação, mas não se sabe se todos receberam)
+ - Livestream - Exemplo de utilização
+
+TCP
+ - Voltado à conexão (Mais lento)
+ - Handshake (Há confirmação entre os dispositivos para saber quem está recebendo e se está recebendo)
+ - Integridade, ordem dos Dados
+ - Aplicativo de mensagem de texto (Exemplo de utilização)

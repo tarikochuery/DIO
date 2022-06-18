@@ -1,0 +1,26 @@
+Modem - Modulator-Demodulator
+
+- Converte dados em um formato que possa ser transmitido de um computador para outro.
+Traduz as informações legíveis para humanos em linguagem de máquinas (0 e 1) para que possa ser enviado a outro computador, e então faz o processo de tradução novamente.
+----------------------------------------------------------------
+
+Roteadores
+
+- Distribui internet para um ou mais dispositivos de uma rede.
+- Pode fazer a comunicação entre redes
+- Pode ser 'burro' - envia para todos, independente se os computadores querem receber
+----------------------------------------------------------------
+
+Switch
+
+- Distribui internet para um ou mais dispositivos de uma rede.
+- Criado para ser 'inteligente' - envia informações apenas para quem fez a requisição.
+----------------------------------------------------------------
+
+Exercício
+
+1. O Gmail costuma utilizar portas próprias, que não POP3 e SMTP. Quais as portas que ele utiliza?
+R.: Segundo o suporte do Gmail, as portas utilizadas são 465 ou 587
+2. Descubra quais portas o MySQL e o Apache utilizam.
+R.: MySQL - 3306
+    Apache - 443

@@ -1,0 +1,6 @@
+20: FTP
+22: SSH - conexão segura entre computadores
+25: SMTP - Envio de Email
+53: DNS
+80: HTTP - Requisição simples na Internet
+443: HTTPS - Requisição segura na Internet
