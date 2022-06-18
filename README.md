@@ -61,5 +61,7 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         3. Como usar Textos e Links no HTML
             - Tags para textos
             - Tags para Links
+        4. Como inserir Imagens em seu Site
+            - Tag img
         3. Site Pessoal (DIretório do Projeto)
         
