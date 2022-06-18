@@ -1,0 +1,90 @@
+# Termos Comuns
+
+ - 404
+    - Endereço Inexistente
+ - Algoritmo
+    - Sequência de passos para cumprir determinado objetivo
+ - ALT
+    - Texto alternativo para falha de carregamento em imagens
+ - API
+    - Parte do site para executar uma ação. Sistema acoplado
+ - Aplicação
+ - Back-End
+ - Biblioteca/dll
+    - Conjunto de ferramentas disponíveis
+ - Bootstrap
+    - Framework JavaScript
+ - Breakpoints
+    - Pontos chaves para a montagem de uma tela de diversos tamanhos.
+    - Pontos de parada para a debugagem.
+ - Browser/navegador
+ - Bug
+ - Cache
+ - Código
+    - Instruções feitas por uma ou mais linguagens de programação
+ - Controle de Versão
+ - Cookies
+ - Debug
+    - Verificação para corrigir erros/falhas no código do programa
+ - Deploy
+    - Pacote/ Parte de um sw que será implantado
+ - Design Adaptativo/Responsivo
+    - Site que se adapta a qualquer tipo de tela
+ - DNS
+ - Documentação
+    - Interna: Comentários no Código
+    - Externa: Manual do Usuário
+ - Domínio
+ - DPI
+    - Proporção de pontos na tela
+ - Editor de Texto
+    - IDE
+ - Estrutura de Dados
+    - Pilha, Fila, Array, Number, Char
+ - Favicon
+    - Ícone que representa o site
+ - Fontes
+    - Fonte de Letra: "Seriff", "Sans-Seriff"
+ - Framework
+    - Caixa de ferramentas disponível para o código
+ - Front-End
+ - FTP
+ - FullStack
+ - GitHub/SVN/CVS
+    - Controladores de versão
+ - HTTP(S)
+    - Protocolo de requisição na Internet
+ - IP
+    - Número que identifica um dispositivo na rede
+ - Linguagem
+    - Programação ou Marcação
+ - Meta tags
+    - Funções no HTML para indexação, tipo de caracteres, etc...
+ - Método ágil
+    - Técnicas de desenvolvimento de software para ser melhor e mais rápido
+ - Mobile
+    - Dispositivo móvel
+ - MVC
+    - Arquitetura de software, separa em models
+ - MVP
+    - Mínimo Produto Viável, mínimo para funcionamento
+ - MySQL
+    - Linguagem de manipulação de banco de dados
+ - Pixel
+ - Resolução
+    - Quantidade de Pixels que a tela tem
+ - Servidor
+    - Web-services
+ - Sistema Operacional/ SO
+    - Linux, MACOS, Windows
+ - Solução
+    - Apenas um programa, ou um conjunto de programas que podem ser fornecidos ao cliente
+ - SSL
+    - Camada de segurança do site
+ - UI
+    - Inteface de Usuário
+ - UX
+    - Experiência de Usuário
+ - Versão
+ - WYSIWYG
+    - What you see is what you get
