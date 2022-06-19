@@ -1,0 +1,73 @@
+# CSS
+
+Com o surgimento do HTML viu-se a necessidade de estilizar as páginas da web, e em 1996 surgiu o CSS como uma linguagem de estilos.
+
+Sua sintaxe é bem simples e consiste em criar regras de estilização para serem aplicadas na página com estrutura HTML
+
+Para incluir o estilo no documento HTML é importante utilziar a tag link, dentro do elemento head, com alguns atributos:
+
+```
+  <link rel='stylesheet' href='style.css'/>
+```
+
+Para o valor do atributo href utilize o caminho para o arquivo css no seu diretório.
+
+## Estrutura
+
+A estrutura do CSS é determinada por um ou mais seletores, que são as tags do HTML, e para esses seletores é feita uma declaração colocada entre chaves.
+A declaração consiste de uma propriedade e um valor.
+
+**Exemplo**
+
+``` 
+    a, p, h1, h3 {
+      color: blue;
+      font-size: 14px;
+    }
+```
+
+Nesse caso, os seletores são: 
+ - a
+ - p
+ - h1 
+ - h3
+
+As declarações são:
+ - ```color: blue```
+ - ```font-size: 14px```
+
+## ID e Classes
+
+No exemplo anterior, utilizamos tags diretamente para fazer a declaração, o que acarretaria na alteração de todos os elementos com essas tags na nossa página.
+
+Em caso de páginas mais complexas, é comum que elementos com a mesma tag tenham comportamentos de estilo diferentes, e para isso utiliza-se as classes e os IDs.
+
+O seletor visto no exemplo anterior eram seletores de tipos, pois utilizamos tags HTML. Há também os seletores de classes e de IDs.
+
+Para atribuir uma classe ou id a um elemento do HTML, basta utilizar os atributos class ou id.
+
+Já no CSS, para utilizar o seletor de classe, basta utilizar o nome dado à classe precedido de um ponto (.) e para utilizar um id, basta digitar o nome dado ao id precedido do hashtag (#)
+
+_OBS: o ID tem que ser único na página_
+
+**Exemplo**
+
+###### HTML
+
+```
+<header class='header'></header>
+
+<header id='header'></header> 
+```
+
+###### CSS
+
+```
+.header {
+  color: green;
+} 
+
+#header {
+  color: blue;
+}
+```
