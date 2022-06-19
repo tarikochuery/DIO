@@ -9,6 +9,8 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
 
 ## Sumário
 
+0. Apresentação e Objetivo Geral
+    1. [Dicas para ir melhor no Bootcamp](https://github.com/tarikochuery/DIO/blob/master/apresentacao-e-objetivos/dicas-para-ir-melhor-no-bootcamp.txt)
 1. Módulo I
     1. Introdução a Programação e Pensamento Computacional
     2. Introdução ao Git e ao GitHub
@@ -74,5 +76,10 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - Estilizando Listas
         8. Dimensão e Alinhamento
             - Propriedades de Dimensão e Alinhamento
-        3. Site Pessoal (DIretório do Projeto)
+        9. Site Pessoal (Diretório do Projeto)
+    3. Posicionando Elementos com Flexbox em CSS
+        1. Introdução ao Curso
+            - Apresentação do Curso
+            - Proposta de Projeto Final
+            - Introdução ao Flexbox
         
