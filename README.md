@@ -65,5 +65,12 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - Tag img
         5. Como organizar Listas com HTML
             - Tags li, ul e ol
+        6. Introdução aos Conceitos Básicos de CSS3
+            - Introdução ao CSS3
+            - Conceitos Básicos
+        7. Estilizandos Elementos, Textos e Listas
+            - Estilizando Elementos
+            - Estilizando Textos
+            - Estilizando Listas
         3. Site Pessoal (DIretório do Projeto)
         

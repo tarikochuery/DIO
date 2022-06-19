@@ -71,3 +71,45 @@ _OBS: o ID tem que ser único na página_
   color: blue;
 }
 ```
+
+## Cascata
+
+O CSS utiliza o conceito de cascata para seus seletores.
+
+No arquivo HTML percebemos que é possível o aninhamento de elementos (um elemento dentro de outro, e assim sucessivamente), e muitas vezes queremos estilizar um elemento específico dentro de outros sem estilizar os elementos "acima".
+
+Para isso, se utiliza a seleção em cascata.
+
+**Exemplo:**
+
+Suponha que tenhamos o seguinte código no arquivo HTML:
+
+```
+  <article>
+    <h3 class='ingredients-list-title'>Lista de Ingredientes</h3>
+    <ul class='ingredients-list'>
+      <li>Farinha</li>
+      <li>Água</li>
+      <li>Sal</li>
+      <li>Fermento</li>
+    </ul>
+  </article>
+```
+
+Suponha que queremos estilizar apenas os itens da lista. Para isso, temos que acessar o elemento article, dentro dele o elemento ul, e dentro dele os elementos li. Então fazemos a seguinte seleção:
+
+```
+  article ul li {
+
+  }
+```
+
+Dessa forma estamos alterando todos itens de listas que se encontram dentro de artigos. Se quisermos ser mais específicos, podemos utilizar a classe atribuída à lista:
+
+```
+  article .ingredients-list li {
+
+  }
+```
+
+Desta forma acessamos todos os itens de lista que se encontram dentro do elemento com a classe "ingredients-list" que se encontram dentro do artigo.
