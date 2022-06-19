@@ -72,5 +72,7 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - Estilizando Elementos
             - Estilizando Textos
             - Estilizando Listas
+        8. Dimensão e Alinhamento
+            - Propriedades de Dimensão e Alinhamento
         3. Site Pessoal (DIretório do Projeto)
         
