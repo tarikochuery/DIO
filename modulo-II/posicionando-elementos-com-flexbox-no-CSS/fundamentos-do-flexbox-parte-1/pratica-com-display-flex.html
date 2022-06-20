@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Display Flex</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .flex{
+        background-color: purple;
+        max-width: 300px;
+        border: 2px black solid;
+        /* Abaixo colocamos o display: flex, e tornamos todos os elementos com essa classe em Flex Container */
+        display: flex;
+      }
+
+      .item{
+        background-color: orange;
+        margin: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex">
+      <div class="item">Item 1</div>
+      <div class="item">Item 2</div>
+      <div class="item">Item 3</div>
+      <div class="item">Item 3</div>
+      <div class="item">Item 3</div>
+      <div class="item">Item 3</div>
+      <div class="item">Item 3</div>
+      <div class="item">Item 3</div>
+      <!-- Aqui temos o problema com o excesso de itens no container, causando o vazamento deles. O que fazer para contornar a situação utilizando propriedades do Flex Container?-->
+    </div>
+  </body>
+</html>

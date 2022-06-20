@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Fundamentos - flex-wrap</title>
+
+    <style>
+      .flex-container{
+        display: flex;
+        height: 150px;
+        border: 2px black solid;
+        max-width: 300px;
+      }
+
+      .item{
+        font-size: 24px;
+        height: 50%;
+        text-align: center;
+        min-width: 100px;
+        color: white;
+        margin: 0;
+      }
+
+      .nowrap{
+        flex-wrap: nowrap;
+      }
+
+      .wrap{
+        flex-wrap: wrap;
+      }
+
+      .wrap-reverse{
+        flex-wrap: wrap-reverse;
+      }
+
+      .blue{
+        background: blue;
+      }
+
+      .green{
+        background: green;
+      }
+
+      .orange{
+        background: orange;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>no wrap</h1>
+
+    <div class="flex-container nowrap">
+      <div class="item blue">1</div>
+      <div class="item green">2</div>
+      <div class="item orange">3</div>
+      <div class="item blue">4</div>
+    </div>
+
+    <h1>wrap</h1>
+
+    <div class="flex-container wrap">
+      <div class="item blue">1</div>
+      <div class="item green">2</div>
+      <div class="item orange">3</div>
+      <div class="item orange">4</div>
+    </div>
+
+    <h1>wrap reverse</h1>
+
+    <div class="flex-container wrap-reverse">
+      <div class="item blue">1</div>
+      <div class="item green">2</div>
+      <div class="item orange">3</div>
+      <div class="item orange">4</div>
+    </div>
+  </body>
+</html>

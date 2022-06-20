@@ -31,3 +31,16 @@ Quando um elemento recebe a característica de Container no Flexbox, a ele podem
  São os elementos filhos diretos do Flex Container. Cada um deles também podem se tornar Flex Container caso tenham elementos filhos diretos a eles.
 
 ![Imagem Flex Container com Itens](images/flexbox-itens.webp)
+
+**OBS:** A propriedade do Flexbox é recursiva, e pode sempre ser aplicada quando a circunstância permitir.
+
+### Propriedades
+
+Assim como o Flex Container, quandos elementos filhos se tornam Flex Itens eles também recebem o direito de utilizar algumas propriedades:
+
+ - flex-grow → Estiliza como funciona o crescimento do item
+ - flex-basis → Determina o tamanho do item antes da distribuição
+ - flex-shrink → Capacidade de redução do tamanho do item
+ - flex → Atalho para as 3 propriedades citadas acima
+ - order → Determina a ordem em que os itens apareceram
+ - align-self → Determina o alinhamento do item específico dentro do container.

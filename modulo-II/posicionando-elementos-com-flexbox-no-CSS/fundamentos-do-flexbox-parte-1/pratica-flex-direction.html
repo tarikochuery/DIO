@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Flex Direction</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .flex-container{
+        margin: 0;
+        padding: 0;
+
+        display: flex;
+
+        list-style-type: none;
+      }
+
+      .flex-item{
+        background: blue;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 20px;
+        color: white;
+        text-align: center;
+        margin: 5px;
+      }
+
+      /* Abaixo estão as classes com cada um dos possíveis valores para o flex-direction */
+
+      .row{
+        flex-direction: row;
+      }
+
+      .row-reverse{
+        flex-direction: row-reverse;
+      }
+
+      .row-reverse li{
+        background-color: red;
+      }
+
+      .column{
+        flex-direction: column;
+        float: left;
+      }
+
+      .column li{
+        background-color: green;
+      }
+
+      .column-reverse{
+        flex-direction: column-reverse;
+        float: right;
+      }
+
+      .column-reverse li{
+        background-color: orange;
+      }
+
+    </style>
+  </head>
+  <body>
+
+      <!--A estrutura abaixo utiliza o valor row para o flex-direction, seus itens são representados com a cor de fundo azul-->
+      <ul class="flex-container row">
+        <li class="flex-item">1</li>
+        <li class="flex-item">2</li>
+        <li class="flex-item">3</li>
+        <li class="flex-item">4</li>
+        <li class="flex-item">5</li>
+      </ul>
+
+      <!--A estrutura abaixo utiliza o valor row-reverse para o flex-direction, seus itens são representados com a cor de fundo vermelha-->
+      <ul class="flex-container row-reverse">
+        <li class="flex-item">1</li>
+        <li class="flex-item">2</li>
+        <li class="flex-item">3</li>
+        <li class="flex-item">4</li>
+        <li class="flex-item">5</li>
+      </ul>
+
+      <!--A estrutura abaixo utiliza o valor column para o flex-direction, seus itens são representados com a cor de fundo verde-->
+      <ul class="flex-container column">
+        <li class="flex-item">1</li>
+        <li class="flex-item">2</li>
+        <li class="flex-item">3</li>
+        <li class="flex-item">4</li>
+        <li class="flex-item">5</li>
+      </ul>
+
+      <!--A estrutura abaixo utiliza o valor column-reverse para o flex-direction, seus itens são representados com a cor de fundo laranja-->
+      <ul class="flex-container column-reverse">
+        <li class="flex-item">1</li>
+        <li class="flex-item">2</li>
+        <li class="flex-item">3</li>
+        <li class="flex-item">4</li>
+        <li class="flex-item">5</li>
+      </ul>
+  </body>
+</html>
