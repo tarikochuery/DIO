@@ -90,10 +90,10 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [Estrutura Básica com flex wrap](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-flex-wrap.md)
             - [Prática com flex wrap](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-flex-wrap.html)
             - [Estrutura Básica e Prática com flex flow](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-flex-flow.md)
-            - [Estrutura Básica do justify content]
-            - [Prática com justify content]
-            - [Estrutura Básica e Prática com align items]
-            - [Estrutura Básica e Prática com align content]
+            - [Estrutura Básica do justify content](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-justify-content.md)
+            - [Prática com justify content](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-com-justify-content.html)
+            - [Estrutura Básica e Prática com align items](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-e-pratica-align-items.md)
+            - [Estrutura Básica e Prática com align content](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-e-pratica-align-content.md)
         2. [Fundamentos do Flexbox - Parte 2]
             - [Estrutura Básica e Prática com flex grow]
             - [Estrutura Básica do flex basis]

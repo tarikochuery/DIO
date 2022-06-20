@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Fundamentos - Flex Basis</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .flex-container{
+        max-width: 500px;
+        border: 2px black solid;
+        
+        display: flex;
+      }
+
+      .item{
+        background-color: orangered;
+        color: white;
+        text-align: center;
+        margin: 5px;
+      }
+
+      .fb-auto{
+        flex-basis: auto;
+      }
+
+      .fg-0{
+        flex-grow: 0;
+      }
+
+      .fg-1{
+        flex-grow: 1;
+      }
+
+      .fg-2{
+        flex-grow: 2;
+      }
+
+      .fb-0{
+        flex-basis: 0;
+      }
+
+      .fb-100{
+        flex-basis: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>auto</h1>
+    <div class="flex-container">
+      <div class="item fb-auto fg-1">A</div>
+      <div class="item fb-auto fg-1">BBB</div>
+      <div class="item fb-auto fg-1">C</div>
+      <div class="item fb-auto fg-2">DEF</div>
+    </div>
+
+    <h1>0 (zero)</h1>
+    <div class="flex-container">
+      <div class="item fb-0 fg-1">A</div>
+      <div class="item fb-0 fg-1">BBB</div>
+      <div class="item fb-0 fg-1">C</div>
+      <div class="item fb-0 fg-1">DEF</div>
+    </div>
+
+    <h1>basis + width definidos</h1>
+    <div class="flex-container">
+      <div class="item fb-100 fg-1">A</div>
+      <div class="item fb-100 fg-0">BBB</div>
+      <div class="item fb-100 fg-2">C</div>
+      <div class="item fb-100 fg-0">DEF</div>
+    </div>
+  </body>
+</html>

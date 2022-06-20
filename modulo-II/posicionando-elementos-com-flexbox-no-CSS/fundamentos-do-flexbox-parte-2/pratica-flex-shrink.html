@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Fundamentos - Flex Shrink</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      .flex-container{
+        border: 2px black solid;
+        max-width: 350px;
+        margin-bottom: 10px;
+
+        display: flex;
+      }
+
+      .item{
+        margin: 5px;
+        background-color: orangered;
+        font-size: 24px;
+        text-align: center;
+      }
+
+      .fs-1{
+        flex-shrink: 1;
+      }
+
+      .fs-0{
+        flex-shrink: 0;
+      }
+
+      .fg-1{
+        flex-grow: 1;
+      }
+
+      .fb-100{
+        flex-basis: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>flex-shrink: 1</h1>
+    <div class="flex-container">
+      <div class="item fs-1 fg-1">A</div>
+      <div class="item fs-1 fg-1">B</div>
+      <div class="item fs-1 fg-1">C</div>
+      <div class="item fs-1 fg-1">D</div>
+      <div class="item fs-1 fg-1">E</div>
+    </div>
+
+    <div class="flex-container">
+      <div class="item fs-1 fg-1">A</div>
+      <div class="item fs-1 fg-1">Lorem ipsum dolor.</div>
+      <div class="item fs-1 fg-1">C</div>
+      <div class="item fs-1 fg-1">D</div>
+    </div>
+
+    <h1>flex-shrink: 0 + flex-basis: 100px</h1>
+    <div class="flex-container">
+      <div class="item fs-0 fb-100">A</div>
+      <div class="item fs-0 fb-100">Lorem ipsum dolor.</div>
+      <div class="item fs-0 fb-100">C</div>
+      <div class="item fs-0 fb-100">D</div>
+    </div>
+  </body>
+</html>
