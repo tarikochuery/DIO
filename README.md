@@ -14,9 +14,9 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
 1. Módulo I
     1. Introdução a Programação e Pensamento Computacional
     2. [Introdução ao Git e ao GitHub](https://github.com/tarikochuery/DIO/tree/master/modulo-I/introducao-ao-git-e-ao-github)
-        1. [Navegação via Command Line Interface (CLI) e Instalação](https://github.com/tarikochuery/DIO/tree/master/modulo-I/introducao-ao-git-e-ao-github/navega%C3%A7%C3%A3o-via-command-line-interface-CLI-e-instalacao)
-            - [Realizando a Instalação do Git](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/navega%C3%A7%C3%A3o-via-command-line-interface-CLI-e-instalacao/realizando-a-instalacao-do-GIT.txt)
-            - Comandos Básicos
+        1. [Navegação via Command Line Interface (CLI) e Instalação](https://github.com/tarikochuery/DIO/tree/master/modulo-I/introducao-ao-git-e-ao-github/navegacao-via-command-line-interface-CLI-e-instalacao)
+            - [Realizando a Instalação do Git](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/navegacao-via-command-line-interface-CLI-e-instalacao/realizando-a-instalacao-do-GIT.txt)
+            - [Comandos Básicos](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/navegacao-via-command-line-interface-CLI-e-instalacao/comandos-basicos.txt)
         2. [Entendendo como o Git funciona por debaixo dos panos](https://github.com/tarikochuery/DIO/tree/master/modulo-I/introducao-ao-git-e-ao-github/entendendo-como-o-GIT-funciona-por-debaixo-dos-panos)
             - [Tópicos Fundamentais para entender o Git](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/entendendo-como-o-GIT-funciona-por-debaixo-dos-panos/topicos-fundamentais-para-entender-o-funcionamento-do-GIT.txt)
             - [Objetos internos do Git](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/entendendo-como-o-GIT-funciona-por-debaixo-dos-panos/objetos-internos-do-GIT.txt)
@@ -77,23 +77,33 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         8. Dimensão e Alinhamento
             - Propriedades de Dimensão e Alinhamento
         9. Site Pessoal (Diretório do Projeto)
-    3. Posicionando Elementos com Flexbox em CSS
-        1. Introdução ao Curso
-            - Apresentação do Curso
-            - Proposta de Projeto Final
-            - Introdução ao Flexbox
-        2. Fundamento do Flexbox - Parte 1
-            - Estrutura Básica do display Flex
-            - Prática com display Flex
-            - Estrutura Básica do flex direction
-            - Prática com flex direction
-            - Estrutura Básica com flex wrap
-            - Prática com flex wrap
-            - Estrutura Básica e Prática com flex flow
-            - Estrutura Básica do justify content
-            - Prática com justify content - Parte 1
-            - Prática com justify content - Parte 2
-            - Estrutura Básica e Prática com align items
-            - Estrutura Básica e Prática com align content
+    3. [Posicionando Elementos com Flexbox em CSS](https://github.com/tarikochuery/DIO/tree/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS)
+        1. [Introdução ao Curso](https://github.com/tarikochuery/DIO/tree/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/introducao-ao-curso)
+            - [Apresentação do Curso](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/introducao-ao-curso/apresentacao-do-curso.md)
+            - [Proposta de Projeto Final](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/introducao-ao-curso/proposta-de-projeto.md)
+            - [Introdução ao Flexbox](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/introducao-ao-curso/introducao-ao-flexbox.md)
+        2. [Fundamento do Flexbox - Parte 1](https://github.com/tarikochuery/DIO/tree/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1)
+            - [Estrutura Básica do display Flex](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-do-display-flex.md)
+            - [Prática com display Flex](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-com-display-flex.html)
+            - [Estrutura Básica do flex direction](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-flex-direction.md)
+            - [Prática com flex direction](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-flex-direction.html)
+            - [Estrutura Básica com flex wrap](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-flex-wrap.md)
+            - [Prática com flex wrap](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-flex-wrap.html)
+            - [Estrutura Básica e Prática com flex flow](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-flex-flow.md)
+            - [Estrutura Básica do justify content]
+            - [Prática com justify content]
+            - [Estrutura Básica e Prática com align items]
+            - [Estrutura Básica e Prática com align content]
+        2. [Fundamentos do Flexbox - Parte 2]
+            - [Estrutura Básica e Prática com flex grow]
+            - [Estrutura Básica do flex basis]
+            - [Estrutura Prática do flex basis]
+            - [Estrutura Básica do flex shrink]
+            - [Estrutura Prática do flex shrink]
+            - [Estrutura Básica e Prática com flex]
+            - [Estrutura Básica e Prática com order]
+            - [Estrutura Básica e Prática com align self]
+
+
 
         
