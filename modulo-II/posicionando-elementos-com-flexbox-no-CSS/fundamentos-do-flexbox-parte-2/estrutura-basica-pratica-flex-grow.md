@@ -8,5 +8,5 @@ Define a proporcionalidade de crescimento dos itens, respeitando o tamanho de se
 
 Apenas valores númericos são aceitos por essa propriedade.
 
-A parte prática desta propriedade pode ser acessada [**AQUI**]
+A parte prática desta propriedade pode ser acessada [**AQUI**](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/pratica-flex-grow.html)
 
