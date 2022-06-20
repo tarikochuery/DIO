@@ -11,4 +11,4 @@ Os possíveis valores para essa propriedade são:
  - flex-end: alinhamento dos itens ao final do Container
  - baseline: alinhamento de acordo com a linha base da tipografia dos itens
 
-A arquivo para a parte prática se encontra [**AQUI**]()
+A arquivo para a parte prática se encontra [**AQUI**](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-align-items.html)
