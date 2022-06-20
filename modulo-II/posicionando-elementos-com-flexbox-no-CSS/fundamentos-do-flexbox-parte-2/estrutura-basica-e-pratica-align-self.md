@@ -13,4 +13,4 @@ Os valores aceietos por essa propriedade são os seguintes:
  - stretch: ocupa todo o espaço relativo
  - baseline: Utiliza a linha base do item para alinhamento
 
- Você pode ver a parte prática [**AQUI**]
+ Você pode ver a parte prática [**AQUI**](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/pratica-align-self.html)
