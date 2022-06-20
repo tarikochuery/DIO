@@ -104,6 +104,13 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [Estrutura Básica e Prática com order](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-order.md)
             - [Estrutura Básica e Prática com align self](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-align-self.md)
 
-
-
+3. [Módulo III]
+    1. Introdução ao JavaScript
+        1. O que é JavaScript?
+            - Apresentação
+            - História, Evolução e Aplicações
+        2. Recursos Básicos da Linguage
+            - Manipulando um Arquivo .js
+            - Funções
+        3. Executando um Arquivo .js
         
