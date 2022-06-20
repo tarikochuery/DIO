@@ -14,4 +14,4 @@ Essa prorpiedade aceita os seguintes valores:
  - space-between: cria um espaçamento igual entre as linhas, sendo que a primeira e a última ficam próximas às bordas do item
  - space-around: os espaçamentos entre as linhas são duas vezes maiores do que  o espaçamento da primeira e da última linhas em relação às bordas do item
 
-Você pode encontrar o arquivo com a parte prática desta propriedade [**AQUI**]()
+Você pode encontrar o arquivo com a parte prática desta propriedade [**AQUI**](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-align-content.html)
