@@ -94,15 +94,15 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [Prática com justify content](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/pratica-com-justify-content.html)
             - [Estrutura Básica e Prática com align items](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-e-pratica-align-items.md)
             - [Estrutura Básica e Prática com align content](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-1/estrutura-basica-e-pratica-align-content.md)
-        2. [Fundamentos do Flexbox - Parte 2]
-            - [Estrutura Básica e Prática com flex grow]
-            - [Estrutura Básica do flex basis]
-            - [Estrutura Prática do flex basis]
-            - [Estrutura Básica do flex shrink]
-            - [Estrutura Prática do flex shrink]
-            - [Estrutura Básica e Prática com flex]
-            - [Estrutura Básica e Prática com order]
-            - [Estrutura Básica e Prática com align self]
+        2. [Fundamentos do Flexbox - Parte 2](https://github.com/tarikochuery/DIO/tree/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2)
+            - [Estrutura Básica e Prática com flex grow](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-pratica-flex-grow.md)
+            - [Estrutura Básica do flex basis](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-flex-basis.md)
+            - [Estrutura Prática do flex basis](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/pratica-flex-basis.html)
+            - [Estrutura Básica do flex shrink](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/pratica-flex-basis.html)
+            - [Estrutura Prática do flex shrink](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/pratica-flex-shrink.html)
+            - [Estrutura Básica e Prática com flex](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-flex.md)
+            - [Estrutura Básica e Prática com order](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-order.md)
+            - [Estrutura Básica e Prática com align self](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-align-self.md)
 
 
 
