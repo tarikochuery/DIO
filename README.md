@@ -105,17 +105,22 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [Estrutura Básica e Prática com order](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-order.md)
             - [Estrutura Básica e Prática com align self](https://github.com/tarikochuery/DIO/blob/master/modulo-II/posicionando-elementos-com-flexbox-no-CSS/fundamentos-do-flexbox-parte-2/estrutura-basica-e-pratica-align-self.md)
 
-3. [Módulo III]
-    1. Introdução ao JavaScript
-        1. O que é JavaScript?
-            - Apresentação
-            - História, Evolução e Aplicações
-        2. Recursos Básicos da Linguage
-            - Manipulando um Arquivo .js
-            - Funções
-        3. Executando um Arquivo .js
-        4. JavaScript em uma Página Web
-            - Estrutura de projeto
-            - Inserindo JavaScript numa Página HTML
-            - Interagindo com os Elementos do DOM
+3. [Módulo III](https://github.com/tarikochuery/DIO/tree/master/modulo-III)
+    1. [Introdução ao JavaScript](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript)
+        1. [O que é JavaScript?](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/o-que-e-javascript)
+            - [Apresentação](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/o-que-e-javascript/apresentacao.md)
+            - [História, Evolução e Aplicações](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/o-que-e-javascript/historia-evolucao-aplicacoes.md)
+        2. [Recursos Básicos da Linguage](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/recursos-basicos-da-linguagem)
+            - [Manipulando um Arquivo .js](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/recursos-basicos-da-linguagem/manipulando%20um%20arquivo.md)
+            - [Funções](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/recursos-basicos-da-linguagem/funcoes.md)
+        3. [Executando um Arquivo .js](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/executando-um-arquivo-js.md)
+        4. [JavaScript em uma Página Web](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web)
+            - [Estrutura de projeto](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/estrutura-de-projeto.md)
+            - [Inserindo JavaScript numa Página HTML](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/inserindo-js-no-html.md)
+            - [Interagindo com os Elementos do DOM](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/interagindo-com-o-DOM.md)
+            - [Projetos Contador](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/projeto-contador)
+            - [Projeto To-do List](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/projeto-to-do-list)
+        5. Mercado de Trabalho
+            - Frameworks
+            - Mercado de Trabalho
         
