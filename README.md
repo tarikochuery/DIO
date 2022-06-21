@@ -25,6 +25,7 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         4. [Ciclo de Vida dos Arquivos no Git](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/ciclo-de-vida-dos-arquivos-no-git.txt)
         5. [Trabalhando com GitHub](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/trabalhando-com-github.txt)
         6. [Como os conflitos ocorrem no GitHub e como resolvê-los](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/como-os-conflitos-ocorrem-no-github-e-como-resolver.txt)
+    3. [Live Inaugural]
 2. [Módulo II](https://github.com/tarikochuery/DIO/tree/master/modulo-II)
     1. Primeiros Passos Para o Desenvolvimento Web
         1. O que é Internet
@@ -113,4 +114,8 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - Manipulando um Arquivo .js
             - Funções
         3. Executando um Arquivo .js
+        4. JavaScript em uma Página Web
+            - Estrutura de projeto
+            - Inserindo JavaScript numa Página HTML
+            - Interagindo com os Elementos do DOM
         
