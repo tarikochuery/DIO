@@ -120,7 +120,14 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [Interagindo com os Elementos do DOM](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/interagindo-com-o-DOM.md)
             - [Projetos Contador](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/projeto-contador)
             - [Projeto To-do List](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/projeto-to-do-list)
-        5. Mercado de Trabalho
-            - Frameworks
-            - Mercado de Trabalho
-        
+        5. [Mercado de Trabalho]
+            - [Frameworks]
+            - [Mercado de Trabalho]
+    2.[Sintaxe Básica em JavaScript]
+        1. [Apresentação do Curso]
+        2. [O que é JavaScript]
+        3. [Entendendo Variáveis e seus Valores]
+        4. [Vetores e Objetos]
+        5. [Estruturas Condicionais]
+        6. [Funções e suas Particularidades]
+        7. [Aprofundando em Funções]
