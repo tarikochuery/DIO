@@ -21,7 +21,7 @@ O array deve ser declarado entre colchetes "[]", e podem guardar qualquer valor 
 
 **OBS:** O índice é a posição do elemento dentro do array. O índice é determinado por um número inteiro, onde o 0 indica a primeira posição.
 
-Para acessarum valor específico de um array, utilizamos a seguinte estrutura:
+Para acessar um valor específico de um array, utilizamos a seguinte estrutura:
 
 ```
 var array = ['texto1', 10, true, 'texto']
@@ -29,6 +29,14 @@ var array = ['texto1', 10, true, 'texto']
 console.log(array[0]) //'texto1'
 
 console.log(array[2]) //true
+```
+
+É possível também determinar a quantidade de elementos de um array pelo método .length:
+
+```
+var array = ['texto1', 10, true, 'texto']
+
+console.log(array.length) //4
 ```
 
 ## Manipulando arrays
@@ -116,4 +124,4 @@ Outra maneira de fazer a desestruturação é utilizando a seguinte sintaxe:
   console.log(funcao) //tomarCafe()
 ```
 
-Pode parecer estranho de início, porém, você está declarando variáveis cujo nome é igual ao nome da propriedade, e o valo atribuído à variável é o valor referete à respectiva propriedade.
+Pode parecer estranho de início, porém, você está declarando variáveis cujo nome é igual ao nome da propriedade, e o valor atribuído à variável é o valor referete à respectiva propriedade.

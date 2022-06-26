@@ -123,11 +123,14 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         5. [Mercado de Trabalho]
             - [Frameworks]
             - [Mercado de Trabalho]
-    2.[Sintaxe Básica em JavaScript]
-        1. [Apresentação do Curso]
-        2. [O que é JavaScript]
-        3. [Entendendo Variáveis e seus Valores]
-        4. [Vetores e Objetos]
-        5. [Estruturas Condicionais]
-        6. [Funções e suas Particularidades]
-        7. [Aprofundando em Funções]
+    2. [Sintaxe Básica em JavaScript](https://github.com/tarikochuery/DIO/tree/master/modulo-III/sintaxa-basica-em-javascript)
+        1. [Apresentação do Curso](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/apresentacao.md)
+        2. [O que é JavaScript](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/o-que-e-javascript.md)
+        3. [Entendendo Variáveis e seus Valores](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/variaveis.md)
+        4. [Vetores e Objetos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/vetores-objetos.md)
+        5. [Estruturas Condicionais](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/estruturas-condicionais.md)
+        6. [Funções e suas Particularidades](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/funcoes1.md)
+        7. [Aprofundando em Funções](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/funcoes2.md)
+    3. [Operadores]
+        1. [Operadores]
+        2. [Atividade Prática]
