@@ -5,6 +5,7 @@ var novaOperacao = () => {
     calculadora()
   } else if (opcao === 2) {
     alert('Até mais!')
+    return
   } else {
     alert('Escreva uma opção válida')
     novaOperacao()
