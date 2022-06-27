@@ -131,22 +131,21 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         5. [Estruturas Condicionais](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/estruturas-condicionais.md)
         6. [Funções e suas Particularidades](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/funcoes1.md)
         7. [Aprofundando em Funções](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/funcoes2.md)
-    3. [Operadores]
-        1. [Operadores]
-        2. [Atividade Prática]
-    4. [Funções]
-        1. [Tipos de Funções]
-            - [Estrutura e Função Anônima]
-            - [Função Autoinvocável e Callbacks]
-        2. [Parâmetros]
-            - [Valores padrão e Objeto "arguments"]
-            - [Arrays e Objetos]
-        3. [Loops]
-            - [If/Else e Switch]
-            - [For e While]
-        4. [This]
-            - [O que é this]
-            - [Manipulando seu valor]
-        5. [Arrow Functions]
-            - [Sintaxe e outras restrições]
+    3. [Operadores](https://github.com/tarikochuery/DIO/tree/master/modulo-III/operadores)
+        1. [Operadores](https://github.com/tarikochuery/DIO/blob/master/modulo-III/operadores/operadores.md)
+        2. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/operadores/atividade-pratica)
+    4. [Funções](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes)
+        1. [Tipos de Funções](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/tipos-de-funcao)
+            - [Estrutura e Função Anônima](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/tipos-de-funcao/estrutura.md)
+            - [Função Autoinvocável e Callbacks](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/tipos-de-funcao/autoinvocavel-callback.md)
+        2. [Parâmetros](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/parametros)
+            - [Valores padrão e Objeto "arguments"](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/parametros/valor-padrao-objeto-arguments.md)
+            - [Arrays e Objetos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/parametros/array-objetos.md)
+        3. [Loops](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/loops)
+            - [If/Else e Switch](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/loops/if-else-switch.md)
+            - [For e While](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/loops/if-else-switch.md)
+        4. [This](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/this)
+            - [O que é this](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/this/o-que-e.md)
+            - [Manipulando seu valor](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/this/manipulando-valor.md)
+        5. [Arrow Functions](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/arrow-functions.md)
         6. [Atividade Prática]
