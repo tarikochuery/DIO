@@ -120,9 +120,9 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [Interagindo com os Elementos do DOM](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/interagindo-com-o-DOM.md)
             - [Projetos Contador](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/projeto-contador)
             - [Projeto To-do List](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/js-em-uma-pagina-web/projeto-to-do-list)
-        5. [Mercado de Trabalho]
-            - [Frameworks]
-            - [Mercado de Trabalho]
+        5. [Mercado de Trabalho](https://github.com/tarikochuery/DIO/tree/master/modulo-III/introducao-ao-javascript/mercado-de-trabalho)
+            - [Frameworks](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/mercado-de-trabalho/frameworks.md)
+            - [Mercado de Trabalho](https://github.com/tarikochuery/DIO/blob/master/modulo-III/introducao-ao-javascript/mercado-de-trabalho/mercado-de-trabalho.md)
     2. [Sintaxe Básica em JavaScript](https://github.com/tarikochuery/DIO/tree/master/modulo-III/sintaxa-basica-em-javascript)
         1. [Apresentação do Curso](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/apresentacao.md)
         2. [O que é JavaScript](https://github.com/tarikochuery/DIO/blob/master/modulo-III/sintaxa-basica-em-javascript/o-que-e-javascript.md)
@@ -148,4 +148,14 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
             - [O que é this](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/this/o-que-e.md)
             - [Manipulando seu valor](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/this/manipulando-valor.md)
         5. [Arrow Functions](https://github.com/tarikochuery/DIO/blob/master/modulo-III/funcoes/arrow-functions.md)
-        6. [Atividade Prática]
+        6. Atividade Prática
+            - [Desafio Alunos Aprovados](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/desafio-alunos-aprovados)
+            - [Desafio This](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/desafio-this)
+    5. [Debugging e Error Handling]
+        1. [Tipos de Erros]
+            - [ECMAScript Error e DOMException]
+        2. [Tratando Erros]
+            - [Throw, Try/Catch, Finally]
+        3. [Criando Erros]
+            - [O objeto Error]
+            - [Atividade Prática]
