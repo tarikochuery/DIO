@@ -151,17 +151,15 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         6. Atividade Prática
             - [Desafio Alunos Aprovados](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/desafio-alunos-aprovados)
             - [Desafio This](https://github.com/tarikochuery/DIO/tree/master/modulo-III/funcoes/desafio-this)
-    5. [Debugging e Error Handling]
-        1. [Tipos de Erros]
-            - [ECMAScript Error e DOMException]
-        2. [Tratando Erros]
-            - [Throw, Try/Catch, Finally]
-        3. [Criando Erros]
-            - [O objeto Error]
-            - [Atividade Prática]
-    6. [Manipulando o DOM com JavaScript]
-        1. [O que é DOM e DOM vs Bom]
-        2. [Métodos]
-        3. [Trabalhando com Estilos]
+    5. [Debugging e Error Handling](https://github.com/tarikochuery/DIO/tree/master/modulo-III/error-handling)
+        1. [ECMAScript Error e DOMException](https://github.com/tarikochuery/DIO/blob/master/modulo-III/error-handling/ecmascript-error-domexception.md)
+        2. [Tratando Erros](https://github.com/tarikochuery/DIO/blob/master/modulo-III/error-handling/tratando-erros.md)
+        3. Criando Erros
+            - [O objeto Error](https://github.com/tarikochuery/DIO/blob/master/modulo-III/error-handling/object-error.md)
+            - [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/error-handling/desafio-error)
+    6. [Manipulando o DOM com JavaScript](https://github.com/tarikochuery/DIO/tree/master/modulo-III/manipulando-DOM-Js)
+        1. [O que é DOM e DOM vs Bom](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/oque-e-DOM-BOM.md)
+        2. [Métodos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/metodos.md)
+        3. [Trabalhando com Estilos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/trabalhando-com-estilos.md)
         4. [Tipos e Acionando eventos]
         5. [Atividade Prática]
