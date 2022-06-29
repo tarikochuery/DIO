@@ -161,5 +161,5 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         1. [O que é DOM e DOM vs Bom](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/oque-e-DOM-BOM.md)
         2. [Métodos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/metodos.md)
         3. [Trabalhando com Estilos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/trabalhando-com-estilos.md)
-        4. [Tipos e Acionando eventos]
+        4. [Tipos de Eventos e Acionando eventos]
         5. [Atividade Prática]
