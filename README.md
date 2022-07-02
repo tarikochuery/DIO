@@ -163,7 +163,11 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         3. [Trabalhando com Estilos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/trabalhando-com-estilos.md)
         4. [Tipos de Eventos e Acionando eventos](https://github.com/tarikochuery/DIO/blob/master/modulo-III/manipulando-DOM-Js/tipos-de-evento-acionando.md)
         5. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/manipulando-DOM-Js/atividade-light-dark-mode)
-    7. [JavaScript Assíncrono]
-        1. [Assincronicidade]
-        2. [Consumindo APIs]
+    7. [JavaScript Assíncrono](https://github.com/tarikochuery/DIO/tree/master/modulo-III/javascript-assincrono)
+        1. [Assincronicidade](https://github.com/tarikochuery/DIO/blob/master/modulo-III/javascript-assincrono/assincronicidade.md)
+        2. [Consumindo APIs](https://github.com/tarikochuery/DIO/blob/master/modulo-III/javascript-assincrono/consumindo-api.md)
+        3. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/javascript-assincrono/atividade-cat-API)
+    8. [Orientação a Objetos]
+        1. [Paradigmas e Pilares]
+        2. [Protótipos e Classes]
         3. [Atividade Prática]

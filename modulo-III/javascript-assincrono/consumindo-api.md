@@ -8,7 +8,7 @@
 
 ## O que são APIs
 
-API = Application Program Interface
+API = Application Programming Interface
 
 Uma API é uma forma de intermediar os resultados do back-end com o que é apresentado no front-end.
 
