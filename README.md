@@ -167,7 +167,19 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         1. [Assincronicidade](https://github.com/tarikochuery/DIO/blob/master/modulo-III/javascript-assincrono/assincronicidade.md)
         2. [Consumindo APIs](https://github.com/tarikochuery/DIO/blob/master/modulo-III/javascript-assincrono/consumindo-api.md)
         3. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/javascript-assincrono/atividade-cat-API)
-    8. [Orientação a Objetos]
-        1. [Paradigmas e Pilares]
-        2. [Protótipos e Classes]
-        3. [Atividade Prática]
+    8. [Orientação a Objetos](https://github.com/tarikochuery/DIO/tree/master/modulo-III/orientacao-a-objetos)
+        1. [Paradigmas e Pilares](https://github.com/tarikochuery/DIO/blob/master/modulo-III/orientacao-a-objetos/paradigma.md)
+        2. [Protótipos e Classes](https://github.com/tarikochuery/DIO/blob/master/modulo-III/orientacao-a-objetos/prototipos-e-classes.md)
+        3. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/orientacao-a-objetos/atividade-conta-bancaria)
+    9. [Introdução ao TypeScript: Explorando Classes, Tipoe e Interfaces]
+        1. [Exemplos das vantagens do TypeScript]
+        2. [Criando o arquivo index.ts e executando o comando parcel]
+        3. [Escrevendo a função soma com TypeScript]
+        4. [Como funcionam as Interfaces]
+        5. [Como funcionam os Types]
+        6. [Tratando a tag input]
+        7. [O que são os Generic Types]
+        8. [Desenvolvendo Condicionais a partir de Parâmetros]
+        9. [Utilizando o caracter '?' para Variáveis Opcionais]
+        10. [Criando variáveis com propriedades readonly e private]
+        11. [Exemplo de como usar o Omit e Conclusão do Curso]
