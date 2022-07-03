@@ -25,7 +25,7 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         4. [Ciclo de Vida dos Arquivos no Git](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/ciclo-de-vida-dos-arquivos-no-git.txt)
         5. [Trabalhando com GitHub](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/trabalhando-com-github.txt)
         6. [Como os conflitos ocorrem no GitHub e como resolvê-los](https://github.com/tarikochuery/DIO/blob/master/modulo-I/introducao-ao-git-e-ao-github/como-os-conflitos-ocorrem-no-github-e-como-resolver.txt)
-    3. [Live Inaugural]
+    3. [Live Inaugural](https://github.com/tarikochuery/DIO/blob/master/modulo-I/live-inaugural.md)
 2. [Módulo II](https://github.com/tarikochuery/DIO/tree/master/modulo-II)
     1. Primeiros Passos Para o Desenvolvimento Web
         1. O que é Internet
@@ -171,15 +171,15 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         1. [Paradigmas e Pilares](https://github.com/tarikochuery/DIO/blob/master/modulo-III/orientacao-a-objetos/paradigma.md)
         2. [Protótipos e Classes](https://github.com/tarikochuery/DIO/blob/master/modulo-III/orientacao-a-objetos/prototipos-e-classes.md)
         3. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/orientacao-a-objetos/atividade-conta-bancaria)
-    9. [Introdução ao TypeScript: Explorando Classes, Tipoe e Interfaces]
-        1. [Exemplos das vantagens do TypeScript]
-        2. [Criando o arquivo index.ts e executando o comando parcel]
-        3. [Escrevendo a função soma com TypeScript]
-        4. [Como funcionam as Interfaces]
-        5. [Como funcionam os Types]
-        6. [Tratando a tag input]
-        7. [O que são os Generic Types]
-        8. [Desenvolvendo Condicionais a partir de Parâmetros]
-        9. [Utilizando o caracter '?' para Variáveis Opcionais]
-        10. [Criando variáveis com propriedades readonly e private]
-        11. [Exemplo de como usar o Omit e Conclusão do Curso]
+    9. [Introdução ao TypeScript: Explorando Classes, Tipoe e Interfaces](https://github.com/tarikochuery/DIO/tree/master/modulo-III/intro-ao-typescript)
+        1. [Exemplos das vantagens do TypeScript](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/vantagens-typescript.md)
+        2. [Criando o arquivo index.ts e executando o comando parcel](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/criando-arquivo-index-ts.md)
+        3. [Escrevendo a função soma com TypeScript](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/funcao-soma-ts.md)
+        4. [Como funcionam as Interfaces](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/interfaces.md)
+        5. [Como funcionam os Types](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/types.md)
+        6. [Tratando a tag input](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/tratando-tag-input.md)
+        7. [O que são os Generic Types](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/generic-types.md)
+        8. [Desenvolvendo Condicionais a partir de Parâmetros](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/condicionais-para-parametros.md)
+        9. [Utilizando o caracter '?' para Variáveis Opcionais](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/variaveis-opcionais.md)
+        10. [Criando variáveis com propriedades readonly e private](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/readonly-private.md)
+        11. [Exemplo de como usar o Omit e Conclusão do Curso](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/omit.md)
