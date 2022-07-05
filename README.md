@@ -171,7 +171,7 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         1. [Paradigmas e Pilares](https://github.com/tarikochuery/DIO/blob/master/modulo-III/orientacao-a-objetos/paradigma.md)
         2. [Protótipos e Classes](https://github.com/tarikochuery/DIO/blob/master/modulo-III/orientacao-a-objetos/prototipos-e-classes.md)
         3. [Atividade Prática](https://github.com/tarikochuery/DIO/tree/master/modulo-III/orientacao-a-objetos/atividade-conta-bancaria)
-    9. [Introdução ao TypeScript: Explorando Classes, Tipoe e Interfaces](https://github.com/tarikochuery/DIO/tree/master/modulo-III/intro-ao-typescript)
+    9. [Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces](https://github.com/tarikochuery/DIO/tree/master/modulo-III/intro-ao-typescript)
         1. [Exemplos das vantagens do TypeScript](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/vantagens-typescript.md)
         2. [Criando o arquivo index.ts e executando o comando parcel](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/criando-arquivo-index-ts.md)
         3. [Escrevendo a função soma com TypeScript](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/funcao-soma-ts.md)
@@ -183,3 +183,27 @@ Abaixo você pode encontrar um breve sumário para encontrar a anotação que de
         9. [Utilizando o caracter '?' para Variáveis Opcionais](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/variaveis-opcionais.md)
         10. [Criando variáveis com propriedades readonly e private](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/readonly-private.md)
         11. [Exemplo de como usar o Omit e Conclusão do Curso](https://github.com/tarikochuery/DIO/blob/master/modulo-III/intro-ao-typescript/omit.md)
+4. [Módulo IV]
+    <!-- 1. [Conhecendo os Principais Protocolos de Comunicação]
+        1. [Introdução]
+        2. [Protocolo de Comunicação Web HTTP]
+            - [Como funciona o Protocolo HTTP]
+            - [Mensagens HTTP - Request e Response]
+            - [Para que servem os Cookies e Cache]
+            - [HTTP 2.0 - Atualizações do Protocolo]
+            - [Servidores/Sistemas de Aplicação] -->
+
+        2.[Introdução ao ReactJS]
+            1. [Introdução ao ReactJS]
+                - [Conheça a Tecnologia ReactJS]
+                - [Aprenda a Configurar o ReactJS]
+                - [Renderizando Elementos]
+                - [Conheça os Ecossistemas do ReactJS]
+            2. [Integrando Webpack ao desenvolvimento ReactJS]
+                - [O que é Webpack]
+                - [Aprenda a configurar o webpack]
+                - [Instalação e configuração do ESLint]
+            3. [Conceitos aplicados aos Tipos de dados e condições da biblioteca]
+                - [Renderização Condicional]
+                - [Listas e Chaves]
+                - [Manipulando Eventos]
